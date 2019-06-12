@@ -5,4 +5,6 @@ Experimenting with different datasets
 
 - Source Data for Heart Disease Prediction Notebook - https://archive.ics.uci.edu/ml/datasets/Heart+Disease
 
-- Data from bank - https://www.kaggle.com/itsmesunil/bank-loan-modelling
+- Data from bank "Credit Card Monthly Spending Prediction" - https://www.kaggle.com/itsmesunil/bank-loan-modelling
+
+- Telco customer churn dataset - https://www.kaggle.com/blastchar/telco-customer-churn
