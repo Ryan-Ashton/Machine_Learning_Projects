@@ -8,3 +8,5 @@ Experimenting with different datasets
 - Data from bank "Credit Card Monthly Spending Prediction" - https://www.kaggle.com/itsmesunil/bank-loan-modelling
 
 - Telco customer churn dataset - https://www.kaggle.com/blastchar/telco-customer-churn
+
+- Hotel reviews dataset - https://www.kaggle.com/jiashenliu/515k-hotel-reviews-data-in-europe
