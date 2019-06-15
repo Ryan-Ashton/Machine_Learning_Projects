@@ -12,3 +12,5 @@ Experimenting with different datasets
 - Hotel reviews dataset - https://www.kaggle.com/jiashenliu/515k-hotel-reviews-data-in-europe
 
 - Black Friday sales dataset - https://www.kaggle.com/mehdidag/black-friday
+
+- Powerlifting database - https://www.openpowerlifting.org/
