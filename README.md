@@ -14,3 +14,5 @@ Experimenting with different datasets
 - Black Friday sales dataset - https://www.kaggle.com/mehdidag/black-friday
 
 - Powerlifting database - https://www.openpowerlifting.org/
+
+- US Airline Passenger Satisfaction - https://www.kaggle.com/johndddddd/customer-satisfaction
