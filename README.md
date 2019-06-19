@@ -16,3 +16,5 @@ Experimenting with different datasets
 - Powerlifting database - https://www.openpowerlifting.org/
 
 - US Airline Passenger Satisfaction - https://www.kaggle.com/johndddddd/customer-satisfaction
+
+- Predicting beauty? - https://www.kaggle.com/killbot/linkedin
