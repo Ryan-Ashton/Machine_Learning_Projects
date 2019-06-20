@@ -18,3 +18,5 @@ Experimenting with different datasets
 - US Airline Passenger Satisfaction - https://www.kaggle.com/johndddddd/customer-satisfaction
 
 - Predicting beauty? - https://www.kaggle.com/killbot/linkedin
+
+- Mall Data for clustering analysis - https://www.kaggle.com/vjchoudhary7/customer-segmentation-tutorial-in-python
