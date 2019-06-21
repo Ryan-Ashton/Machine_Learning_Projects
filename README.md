@@ -20,3 +20,5 @@ Experimenting with different datasets
 - Predicting beauty? - https://www.kaggle.com/killbot/linkedin
 
 - Mall Data for clustering analysis - https://www.kaggle.com/vjchoudhary7/customer-segmentation-tutorial-in-python
+
+- Android App Data - https://www.kaggle.com/lava18/google-play-store-apps/downloads/google-play-store-apps.zip/6
