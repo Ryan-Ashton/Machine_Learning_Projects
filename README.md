@@ -26,3 +26,5 @@ Experimenting with different datasets
 - Australian Aged Care Data - https://www.gen-agedcaredata.gov.au
 
 - Supermarket sales - https://www.kaggle.com/aungpyaeap/supermarket-sales
+
+- Sales Optimisation - https://www.kaggle.com/loveall/clicks-conversion-tracking
