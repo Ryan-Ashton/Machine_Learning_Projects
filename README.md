@@ -28,3 +28,5 @@ Experimenting with different datasets
 - Supermarket sales - https://www.kaggle.com/aungpyaeap/supermarket-sales
 
 - Sales Optimisation - https://www.kaggle.com/loveall/clicks-conversion-tracking
+
+- Laptop pricing - https://www.kaggle.com/ionaskel/laptop-prices
