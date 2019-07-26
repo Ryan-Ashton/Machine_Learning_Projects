@@ -30,3 +30,5 @@ Experimenting with different datasets
 - Sales Optimisation - https://www.kaggle.com/loveall/clicks-conversion-tracking
 
 - Laptop pricing - https://www.kaggle.com/ionaskel/laptop-prices
+
+- Mobile phone pricing - https://www.kaggle.com/iabhishekofficial/mobile-price-classification
